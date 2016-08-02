@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">autocomplete</string>
+    <string name="github_autocomplete_hint">Github user\'s full name</string>
+</resources>
